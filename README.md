@@ -2,7 +2,7 @@ Each week's repositories will contain the code shown in the timetabled sessions.
 
 These *readme* files will contain suggested tutorial tasks.
 
-# Week-1
+# Week 1
 The task for this week is to set up your environment in line with the
 [Module Handbook](https://docs.google.com/document/d/10j3JCxyLZg1x2zk_OqBBGQ1hlIH4qNsHtkGu9MS2K4k).
 
