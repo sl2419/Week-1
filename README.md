@@ -9,7 +9,14 @@ The task for this week is to set up your environment in line with the
 To finish this week please edit and fill in *details.md* and **submit this as an assignment in Github Classroom**.
 
 ## Preparation for Week 2
-Please watch
+Read up on the basics of html and css.
+[Mdn](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web) has excellent primers on both.
+Read
+[html basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+and 
+[css basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics).
+
+Then to prime you on javascript watch
 [this video](https://imperial.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=e19a8770-275c-40b9-902d-aba1018739de)
 in advance of next week's session.
 
