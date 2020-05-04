@@ -1,7 +1,7 @@
 Please Complete with your details and then sumbit via GitHub Classroom.
-* Full Name:
-* Tutor Group:
-* CID:
+* Full Name: Shijing Li
+* Tutor Group: 10
+* CID: 01719521
 
 *Did everything install well from the handbook? Any issues?*
 * NodeJS - [ ]
